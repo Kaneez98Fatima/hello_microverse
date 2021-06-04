@@ -31,9 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-linters 
-git 
-node updated version 
+linters set Up
+
+Node updated version 
 
 
 
