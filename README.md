@@ -3,17 +3,16 @@
 
 # Hello Microverse
 
-> One paragraph statement about the project.
+> Project is "Hello Microverse"
 
-![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+   
+    HTML AND CSS
 
 ## Live Demo
 
@@ -27,7 +26,8 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+
+    
 
 ### Setup
 
