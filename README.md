@@ -43,7 +43,7 @@ Node updated version
 👤 **KaneezFatima**
 
 - GitHub: [@kaneez98fatima](https://github.com/Kaneez98Fatima)
-- LinkedIn: [Kaneez98fatima](https://www.linkedin.com/in/kaneez-fatima-0a86601b3)
+- LinkedIn: [@Kaneez98fatima](https://www.linkedin.com/in/kaneez-fatima-0a86601b3)
 
 
 ## 🤝 Contributing
